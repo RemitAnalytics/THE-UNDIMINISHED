@@ -1,5 +1,3 @@
-# THE-UNDIMINISHED
-Mothers who are heard, supported and earning on their own schedule raise children who do well. Undiminished psychosocial peer support, maternal wellbeing, referral pathways, safety by design, culturally grounded, low-bandwidth, open source, measurable outcomes.
 # The Undiminished: Circle Matching Engine
 
 Open-source, explainable peer-circle matching for **The Undiminished**, a platform that helps working mothers and ambitious women reduce stress through small peer circles, accountability and tools to build flexible careers and businesses.

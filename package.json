@@ -1,0 +1,14 @@
+{
+  "name": "the-undiminished-matching",
+  "version": "0.1.0",
+  "description": "Open-source, explainable peer-circle matching engine for The Undiminished.",
+  "type": "module",
+  "main": "src/index.js",
+  "license": "BSD-3-Clause",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/cli.js data/synthetic-members.json",
+    "generate": "node scripts/generate-synthetic.js"
+  }
+}
