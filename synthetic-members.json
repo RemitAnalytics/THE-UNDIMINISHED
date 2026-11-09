@@ -1,0 +1,618 @@
+[
+  {
+    "id": "synthetic-001",
+    "tzOffset": 3,
+    "languages": [
+      "en"
+    ],
+    "stage": "teens",
+    "track": "business",
+    "goals": "moving from corporate operations into a remote career; launching an online shop and learning digital marketing"
+  },
+  {
+    "id": "synthetic-002",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "career",
+    "goals": "growing my consulting business while raising young children; preparing for a promotion into management"
+  },
+  {
+    "id": "synthetic-003",
+    "tzOffset": 1,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "career",
+    "goals": "building a freelance design practice with protected focus time; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-004",
+    "tzOffset": 3,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "career",
+    "goals": "starting a tutoring and education business online; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-005",
+    "tzOffset": 1,
+    "languages": [
+      "fr"
+    ],
+    "stage": "early_years",
+    "track": "career",
+    "goals": "building a freelance design practice with protected focus time; launching an online shop and learning digital marketing"
+  },
+  {
+    "id": "synthetic-006",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "both",
+    "goals": "growing my consulting business while raising young children; growing my consulting business while raising young children"
+  },
+  {
+    "id": "synthetic-007",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ha"
+    ],
+    "stage": "teens",
+    "track": "business",
+    "goals": "building a content and coaching brand alongside my job; preparing for a promotion into management"
+  },
+  {
+    "id": "synthetic-008",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "both",
+    "goals": "moving from corporate operations into a remote career; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-009",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "school_age",
+    "track": "career",
+    "goals": "building a content and coaching brand alongside my job; preparing for a promotion into management"
+  },
+  {
+    "id": "synthetic-010",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "school_age",
+    "track": "business",
+    "goals": "scaling a catering and events business from home; starting a tutoring and education business online"
+  },
+  {
+    "id": "synthetic-011",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "teens",
+    "track": "both",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; growing my consulting business while raising young children"
+  },
+  {
+    "id": "synthetic-012",
+    "tzOffset": 1,
+    "languages": [
+      "en"
+    ],
+    "stage": "no_kids",
+    "track": "both",
+    "goals": "moving from corporate operations into a remote career; moving from corporate operations into a remote career"
+  },
+  {
+    "id": "synthetic-013",
+    "tzOffset": 3,
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "stage": "early_years",
+    "track": "both",
+    "goals": "finding structure and accountability to finish a professional certification; growing my consulting business while raising young children"
+  },
+  {
+    "id": "synthetic-014",
+    "tzOffset": 1,
+    "languages": [
+      "fr"
+    ],
+    "stage": "no_kids",
+    "track": "career",
+    "goals": "scaling a catering and events business from home; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-015",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ha"
+    ],
+    "stage": "no_kids",
+    "track": "both",
+    "goals": "starting a tutoring and education business online; growing my consulting business while raising young children"
+  },
+  {
+    "id": "synthetic-016",
+    "tzOffset": 1,
+    "languages": [
+      "fr"
+    ],
+    "stage": "school_age",
+    "track": "business",
+    "goals": "growing my consulting business while raising young children; launching an online shop and learning digital marketing"
+  },
+  {
+    "id": "synthetic-017",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "school_age",
+    "track": "career",
+    "goals": "growing my consulting business while raising young children; building a freelance design practice with protected focus time"
+  },
+  {
+    "id": "synthetic-018",
+    "tzOffset": 1,
+    "languages": [
+      "fr"
+    ],
+    "stage": "early_years",
+    "track": "career",
+    "goals": "starting a tutoring and education business online; finding structure and accountability to finish a professional certification"
+  },
+  {
+    "id": "synthetic-019",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ig"
+    ],
+    "stage": "no_kids",
+    "track": "career",
+    "goals": "scaling a catering and events business from home; moving from corporate operations into a remote career"
+  },
+  {
+    "id": "synthetic-020",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "career",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; moving from corporate operations into a remote career"
+  },
+  {
+    "id": "synthetic-021",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "business",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-022",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "teens",
+    "track": "business",
+    "goals": "launching an online shop and learning digital marketing; building a freelance design practice with protected focus time"
+  },
+  {
+    "id": "synthetic-023",
+    "tzOffset": 1,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "both",
+    "goals": "moving from corporate operations into a remote career; finding structure and accountability to finish a professional certification"
+  },
+  {
+    "id": "synthetic-024",
+    "tzOffset": 1,
+    "languages": [
+      "fr"
+    ],
+    "stage": "newborn",
+    "track": "career",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-025",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "yo"
+    ],
+    "stage": "newborn",
+    "track": "business",
+    "goals": "scaling a catering and events business from home; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-026",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ig"
+    ],
+    "stage": "school_age",
+    "track": "both",
+    "goals": "finding structure and accountability to finish a professional certification; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-027",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ig"
+    ],
+    "stage": "teens",
+    "track": "career",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; building a freelance design practice with protected focus time"
+  },
+  {
+    "id": "synthetic-028",
+    "tzOffset": 3,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "business",
+    "goals": "growing my consulting business while raising young children; building a freelance design practice with protected focus time"
+  },
+  {
+    "id": "synthetic-029",
+    "tzOffset": 3,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "career",
+    "goals": "preparing for a promotion into management; preparing for a promotion into management"
+  },
+  {
+    "id": "synthetic-030",
+    "tzOffset": 1,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "both",
+    "goals": "building a content and coaching brand alongside my job; finding structure and accountability to finish a professional certification"
+  },
+  {
+    "id": "synthetic-031",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "business",
+    "goals": "building a content and coaching brand alongside my job; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-032",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ha"
+    ],
+    "stage": "school_age",
+    "track": "business",
+    "goals": "scaling a catering and events business from home; starting a tutoring and education business online"
+  },
+  {
+    "id": "synthetic-033",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "no_kids",
+    "track": "career",
+    "goals": "growing my consulting business while raising young children; returning to work after maternity leave and negotiating flexible hours"
+  },
+  {
+    "id": "synthetic-034",
+    "tzOffset": 1,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "career",
+    "goals": "growing my consulting business while raising young children; preparing for a promotion into management"
+  },
+  {
+    "id": "synthetic-035",
+    "tzOffset": 3,
+    "languages": [
+      "en"
+    ],
+    "stage": "school_age",
+    "track": "career",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; growing my consulting business while raising young children"
+  },
+  {
+    "id": "synthetic-036",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "yo"
+    ],
+    "stage": "school_age",
+    "track": "business",
+    "goals": "scaling a catering and events business from home; finding structure and accountability to finish a professional certification"
+  },
+  {
+    "id": "synthetic-037",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "yo"
+    ],
+    "stage": "newborn",
+    "track": "both",
+    "goals": "starting a tutoring and education business online; finding structure and accountability to finish a professional certification"
+  },
+  {
+    "id": "synthetic-038",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "teens",
+    "track": "both",
+    "goals": "moving from corporate operations into a remote career; starting a tutoring and education business online"
+  },
+  {
+    "id": "synthetic-039",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "both",
+    "goals": "scaling a catering and events business from home; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-040",
+    "tzOffset": 3,
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "stage": "teens",
+    "track": "both",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; returning to work after maternity leave and negotiating flexible hours"
+  },
+  {
+    "id": "synthetic-041",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "both",
+    "goals": "scaling a catering and events business from home; moving from corporate operations into a remote career"
+  },
+  {
+    "id": "synthetic-042",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ha"
+    ],
+    "stage": "school_age",
+    "track": "both",
+    "goals": "finding structure and accountability to finish a professional certification; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-043",
+    "tzOffset": 1,
+    "languages": [
+      "fr"
+    ],
+    "stage": "early_years",
+    "track": "both",
+    "goals": "moving from corporate operations into a remote career; returning to work after maternity leave and negotiating flexible hours"
+  },
+  {
+    "id": "synthetic-044",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "no_kids",
+    "track": "career",
+    "goals": "moving from corporate operations into a remote career; preparing for a promotion into management"
+  },
+  {
+    "id": "synthetic-045",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "business",
+    "goals": "growing my consulting business while raising young children; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-046",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ha"
+    ],
+    "stage": "school_age",
+    "track": "business",
+    "goals": "scaling a catering and events business from home; building a content and coaching brand alongside my job"
+  },
+  {
+    "id": "synthetic-047",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "yo"
+    ],
+    "stage": "no_kids",
+    "track": "both",
+    "goals": "finding structure and accountability to finish a professional certification; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-048",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "no_kids",
+    "track": "career",
+    "goals": "moving from corporate operations into a remote career; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-049",
+    "tzOffset": 1,
+    "languages": [
+      "en"
+    ],
+    "stage": "school_age",
+    "track": "career",
+    "goals": "scaling a catering and events business from home; moving from corporate operations into a remote career"
+  },
+  {
+    "id": "synthetic-050",
+    "tzOffset": -5,
+    "languages": [
+      "en"
+    ],
+    "stage": "early_years",
+    "track": "business",
+    "goals": "moving from corporate operations into a remote career; moving from corporate operations into a remote career"
+  },
+  {
+    "id": "synthetic-051",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "no_kids",
+    "track": "both",
+    "goals": "returning to work after maternity leave and negotiating flexible hours; building a freelance design practice with protected focus time"
+  },
+  {
+    "id": "synthetic-052",
+    "tzOffset": 1,
+    "languages": [
+      "fr"
+    ],
+    "stage": "early_years",
+    "track": "business",
+    "goals": "building a freelance design practice with protected focus time; moving from corporate operations into a remote career"
+  },
+  {
+    "id": "synthetic-053",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "career",
+    "goals": "scaling a catering and events business from home; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-054",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "yo"
+    ],
+    "stage": "no_kids",
+    "track": "business",
+    "goals": "starting a tutoring and education business online; growing my consulting business while raising young children"
+  },
+  {
+    "id": "synthetic-055",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "career",
+    "goals": "building a freelance design practice with protected focus time; finding structure and accountability to finish a professional certification"
+  },
+  {
+    "id": "synthetic-056",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "newborn",
+    "track": "both",
+    "goals": "starting a tutoring and education business online; finding structure and accountability to finish a professional certification"
+  },
+  {
+    "id": "synthetic-057",
+    "tzOffset": 0,
+    "languages": [
+      "en"
+    ],
+    "stage": "teens",
+    "track": "career",
+    "goals": "launching an online shop and learning digital marketing; launching an online shop and learning digital marketing"
+  },
+  {
+    "id": "synthetic-058",
+    "tzOffset": 1,
+    "languages": [
+      "en",
+      "ig"
+    ],
+    "stage": "no_kids",
+    "track": "career",
+    "goals": "scaling a catering and events business from home; scaling a catering and events business from home"
+  },
+  {
+    "id": "synthetic-059",
+    "tzOffset": 3,
+    "languages": [
+      "en"
+    ],
+    "stage": "no_kids",
+    "track": "business",
+    "goals": "building a freelance design practice with protected focus time; building a freelance design practice with protected focus time"
+  },
+  {
+    "id": "synthetic-060",
+    "tzOffset": 1,
+    "languages": [
+      "en"
+    ],
+    "stage": "school_age",
+    "track": "business",
+    "goals": "preparing for a promotion into management; moving from corporate operations into a remote career"
+  }
+]

@@ -1,0 +1,817 @@
+{
+  "circles": [
+    {
+      "id": "circle-01",
+      "size": 9,
+      "memberIds": [
+        "synthetic-001",
+        "synthetic-007",
+        "synthetic-027",
+        "synthetic-038",
+        "synthetic-040",
+        "synthetic-051",
+        "synthetic-057",
+        "synthetic-059",
+        "synthetic-060"
+      ],
+      "cohesion": 0.499,
+      "timezoneSpreadHours": 3,
+      "stageMix": {
+        "teens": 6,
+        "no_kids": 2,
+        "school_age": 1
+      },
+      "trackMix": {
+        "business": 4,
+        "career": 2,
+        "both": 3
+      },
+      "themes": [
+        "building",
+        "career",
+        "corporate",
+        "design",
+        "flexible"
+      ]
+    },
+    {
+      "id": "circle-02",
+      "size": 12,
+      "memberIds": [
+        "synthetic-002",
+        "synthetic-003",
+        "synthetic-004",
+        "synthetic-006",
+        "synthetic-013",
+        "synthetic-015",
+        "synthetic-028",
+        "synthetic-029",
+        "synthetic-034",
+        "synthetic-035",
+        "synthetic-054",
+        "synthetic-055"
+      ],
+      "cohesion": 0.537,
+      "timezoneSpreadHours": 3,
+      "stageMix": {
+        "early_years": 5,
+        "newborn": 4,
+        "no_kids": 2,
+        "school_age": 1
+      },
+      "trackMix": {
+        "career": 7,
+        "both": 3,
+        "business": 2
+      },
+      "themes": [
+        "business",
+        "children",
+        "consulting",
+        "growing",
+        "raising"
+      ]
+    },
+    {
+      "id": "circle-03",
+      "size": 10,
+      "memberIds": [
+        "synthetic-008",
+        "synthetic-012",
+        "synthetic-019",
+        "synthetic-020",
+        "synthetic-039",
+        "synthetic-041",
+        "synthetic-044",
+        "synthetic-049",
+        "synthetic-053",
+        "synthetic-058"
+      ],
+      "cohesion": 0.64,
+      "timezoneSpreadHours": 1,
+      "stageMix": {
+        "newborn": 4,
+        "no_kids": 4,
+        "early_years": 1,
+        "school_age": 1
+      },
+      "trackMix": {
+        "both": 4,
+        "career": 6
+      },
+      "themes": [
+        "career",
+        "corporate",
+        "moving",
+        "operations",
+        "remote"
+      ]
+    },
+    {
+      "id": "circle-04",
+      "size": 10,
+      "memberIds": [
+        "synthetic-009",
+        "synthetic-010",
+        "synthetic-011",
+        "synthetic-017",
+        "synthetic-021",
+        "synthetic-022",
+        "synthetic-033",
+        "synthetic-045",
+        "synthetic-048",
+        "synthetic-050"
+      ],
+      "cohesion": 0.513,
+      "timezoneSpreadHours": 0,
+      "stageMix": {
+        "school_age": 3,
+        "teens": 2,
+        "newborn": 1,
+        "no_kids": 2,
+        "early_years": 2
+      },
+      "trackMix": {
+        "career": 4,
+        "business": 5,
+        "both": 1
+      },
+      "themes": [
+        "business",
+        "building",
+        "children",
+        "consulting",
+        "growing"
+      ]
+    },
+    {
+      "id": "circle-05",
+      "size": 12,
+      "memberIds": [
+        "synthetic-023",
+        "synthetic-025",
+        "synthetic-026",
+        "synthetic-030",
+        "synthetic-031",
+        "synthetic-032",
+        "synthetic-036",
+        "synthetic-037",
+        "synthetic-042",
+        "synthetic-046",
+        "synthetic-047",
+        "synthetic-056"
+      ],
+      "cohesion": 0.657,
+      "timezoneSpreadHours": 1,
+      "stageMix": {
+        "newborn": 4,
+        "school_age": 5,
+        "early_years": 2,
+        "no_kids": 1
+      },
+      "trackMix": {
+        "both": 7,
+        "business": 5
+      },
+      "themes": [
+        "business",
+        "accountability",
+        "certification",
+        "finding",
+        "finish"
+      ]
+    }
+  ],
+  "waitlist": [
+    {
+      "memberId": "synthetic-005",
+      "reason": "no_space_in_compatible_circle",
+      "note": "Compatible circles are full or too small right now; you are first in line as new members join."
+    },
+    {
+      "memberId": "synthetic-052",
+      "reason": "no_space_in_compatible_circle",
+      "note": "Compatible circles are full or too small right now; you are first in line as new members join."
+    },
+    {
+      "memberId": "synthetic-043",
+      "reason": "no_space_in_compatible_circle",
+      "note": "Compatible circles are full or too small right now; you are first in line as new members join."
+    },
+    {
+      "memberId": "synthetic-018",
+      "reason": "no_space_in_compatible_circle",
+      "note": "Compatible circles are full or too small right now; you are first in line as new members join."
+    },
+    {
+      "memberId": "synthetic-024",
+      "reason": "no_space_in_compatible_circle",
+      "note": "Compatible circles are full or too small right now; you are first in line as new members join."
+    },
+    {
+      "memberId": "synthetic-016",
+      "reason": "no_space_in_compatible_circle",
+      "note": "Compatible circles are full or too small right now; you are first in line as new members join."
+    },
+    {
+      "memberId": "synthetic-014",
+      "reason": "no_space_in_compatible_circle",
+      "note": "Compatible circles are full or too small right now; you are first in line as new members join."
+    }
+  ],
+  "explanations": [
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-001",
+      "fitScore": 0.521,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "5 of 8 circle-mates are in the same life stage.",
+        "3 of 8 circle-mates are on the same track (business).",
+        "Shared goal themes: career, corporate."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-007",
+      "fitScore": 0.515,
+      "reasons": [
+        "Everyone in your circle is within 2 hour(s) of your time zone and shares a language with you.",
+        "5 of 8 circle-mates are in the same life stage.",
+        "3 of 8 circle-mates are on the same track (business).",
+        "Shared goal themes: building."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-027",
+      "fitScore": 0.563,
+      "reasons": [
+        "Everyone in your circle is within 2 hour(s) of your time zone and shares a language with you.",
+        "5 of 8 circle-mates are in the same life stage.",
+        "1 of 8 circle-mates are on the same track (career).",
+        "Shared goal themes: building."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-038",
+      "fitScore": 0.519,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "5 of 8 circle-mates are in the same life stage.",
+        "2 of 8 circle-mates are on the same track (both).",
+        "Shared goal themes: career, corporate."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-040",
+      "fitScore": 0.518,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "5 of 8 circle-mates are in the same life stage.",
+        "2 of 8 circle-mates are on the same track (both)."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-051",
+      "fitScore": 0.485,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "1 of 8 circle-mates are in the same life stage.",
+        "2 of 8 circle-mates are on the same track (both).",
+        "Shared goal themes: building."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-057",
+      "fitScore": 0.477,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "5 of 8 circle-mates are in the same life stage.",
+        "1 of 8 circle-mates are on the same track (career)."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-059",
+      "fitScore": 0.415,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "1 of 8 circle-mates are in the same life stage.",
+        "3 of 8 circle-mates are on the same track (business).",
+        "Shared goal themes: building."
+      ]
+    },
+    {
+      "circleId": "circle-01",
+      "memberId": "synthetic-060",
+      "fitScore": 0.482,
+      "reasons": [
+        "Everyone in your circle is within 2 hour(s) of your time zone and shares a language with you.",
+        "0 of 8 circle-mates are in the same life stage.",
+        "3 of 8 circle-mates are on the same track (business).",
+        "Shared goal themes: career, corporate."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-002",
+      "fitScore": 0.606,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (career).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-003",
+      "fitScore": 0.511,
+      "reasons": [
+        "Everyone in your circle is within 2 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (career)."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-004",
+      "fitScore": 0.516,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (career).",
+        "Shared goal themes: business."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-006",
+      "fitScore": 0.594,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "2 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-013",
+      "fitScore": 0.574,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "2 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-015",
+      "fitScore": 0.534,
+      "reasons": [
+        "Everyone in your circle is within 2 hour(s) of your time zone and shares a language with you.",
+        "1 of 11 circle-mates are in the same life stage.",
+        "2 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-028",
+      "fitScore": 0.532,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "1 of 11 circle-mates are on the same track (business).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-029",
+      "fitScore": 0.5,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (career)."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-034",
+      "fitScore": 0.615,
+      "reasons": [
+        "Everyone in your circle is within 2 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (career).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-035",
+      "fitScore": 0.49,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "0 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (career).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-054",
+      "fitScore": 0.491,
+      "reasons": [
+        "Everyone in your circle is within 2 hour(s) of your time zone and shares a language with you.",
+        "1 of 11 circle-mates are in the same life stage.",
+        "1 of 11 circle-mates are on the same track (business).",
+        "Shared goal themes: business, children, consulting."
+      ]
+    },
+    {
+      "circleId": "circle-02",
+      "memberId": "synthetic-055",
+      "fitScore": 0.485,
+      "reasons": [
+        "Everyone in your circle is within 3 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (career)."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-008",
+      "fitScore": 0.598,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (both).",
+        "Shared goal themes: career, corporate, moving."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-012",
+      "fitScore": 0.624,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (both).",
+        "Shared goal themes: career, corporate, moving."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-019",
+      "fitScore": 0.715,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "5 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: career, corporate, moving."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-020",
+      "fitScore": 0.574,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "0 of 9 circle-mates are in the same life stage.",
+        "5 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: career, corporate, moving."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-039",
+      "fitScore": 0.632,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (both)."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-041",
+      "fitScore": 0.719,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (both).",
+        "Shared goal themes: career, corporate, moving."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-044",
+      "fitScore": 0.608,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "5 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: career, corporate, moving."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-049",
+      "fitScore": 0.654,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "0 of 9 circle-mates are in the same life stage.",
+        "5 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: career, corporate, moving."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-053",
+      "fitScore": 0.646,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "5 of 9 circle-mates are on the same track (career)."
+      ]
+    },
+    {
+      "circleId": "circle-03",
+      "memberId": "synthetic-058",
+      "fitScore": 0.629,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 9 circle-mates are in the same life stage.",
+        "5 of 9 circle-mates are on the same track (career)."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-009",
+      "fitScore": 0.492,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "2 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: building."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-010",
+      "fitScore": 0.53,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "2 of 9 circle-mates are in the same life stage.",
+        "4 of 9 circle-mates are on the same track (business).",
+        "Shared goal themes: business."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-011",
+      "fitScore": 0.547,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "1 of 9 circle-mates are in the same life stage.",
+        "0 of 9 circle-mates are on the same track (both).",
+        "Shared goal themes: business, children."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-017",
+      "fitScore": 0.55,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "2 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: business, building, children."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-021",
+      "fitScore": 0.476,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "0 of 9 circle-mates are in the same life stage.",
+        "4 of 9 circle-mates are on the same track (business).",
+        "Shared goal themes: building."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-022",
+      "fitScore": 0.472,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "1 of 9 circle-mates are in the same life stage.",
+        "4 of 9 circle-mates are on the same track (business).",
+        "Shared goal themes: building."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-033",
+      "fitScore": 0.523,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "1 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: business, children."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-045",
+      "fitScore": 0.556,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "1 of 9 circle-mates are in the same life stage.",
+        "4 of 9 circle-mates are on the same track (business).",
+        "Shared goal themes: business, children."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-048",
+      "fitScore": 0.489,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "1 of 9 circle-mates are in the same life stage.",
+        "3 of 9 circle-mates are on the same track (career).",
+        "Shared goal themes: business."
+      ]
+    },
+    {
+      "circleId": "circle-04",
+      "memberId": "synthetic-050",
+      "fitScore": 0.491,
+      "reasons": [
+        "Everyone in your circle is within 0 hour(s) of your time zone and shares a language with you.",
+        "1 of 9 circle-mates are in the same life stage.",
+        "4 of 9 circle-mates are on the same track (business)."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-023",
+      "fitScore": 0.623,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: accountability, certification."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-025",
+      "fitScore": 0.626,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "4 of 11 circle-mates are on the same track (business).",
+        "Shared goal themes: business."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-026",
+      "fitScore": 0.72,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: business, accountability, certification."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-030",
+      "fitScore": 0.709,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "1 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: accountability, certification."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-031",
+      "fitScore": 0.617,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "1 of 11 circle-mates are in the same life stage.",
+        "4 of 11 circle-mates are on the same track (business).",
+        "Shared goal themes: business."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-032",
+      "fitScore": 0.609,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "4 of 11 circle-mates are on the same track (business).",
+        "Shared goal themes: business."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-036",
+      "fitScore": 0.709,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "4 of 11 circle-mates are on the same track (business).",
+        "Shared goal themes: business, accountability, certification."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-037",
+      "fitScore": 0.657,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: business, accountability, certification."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-042",
+      "fitScore": 0.699,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: accountability, certification."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-046",
+      "fitScore": 0.644,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "4 of 11 circle-mates are in the same life stage.",
+        "4 of 11 circle-mates are on the same track (business).",
+        "Shared goal themes: business."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-047",
+      "fitScore": 0.652,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "0 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: business, accountability, certification."
+      ]
+    },
+    {
+      "circleId": "circle-05",
+      "memberId": "synthetic-056",
+      "fitScore": 0.621,
+      "reasons": [
+        "Everyone in your circle is within 1 hour(s) of your time zone and shares a language with you.",
+        "3 of 11 circle-mates are in the same life stage.",
+        "6 of 11 circle-mates are on the same track (both).",
+        "Shared goal themes: business, accountability, certification."
+      ]
+    }
+  ],
+  "stats": {
+    "memberCount": 60,
+    "matched": 53,
+    "waitlisted": 7,
+    "meanFit": 0.573
+  },
+  "config": {
+    "minSize": 8,
+    "targetSize": 10,
+    "maxSize": 12,
+    "maxTzDiffHours": 4,
+    "refinePasses": 6,
+    "weights": {
+      "timezone": 0.2,
+      "stage": 0.25,
+      "track": 0.2,
+      "goals": 0.35
+    }
+  }
+}
